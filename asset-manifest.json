@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/cafe-lumitre/static/css/main.76de6b56.css",
-    "main.js": "/cafe-lumitre/static/js/main.ba18baaf.js",
-    "index.html": "/cafe-lumitre/index.html",
-    "main.76de6b56.css.map": "/cafe-lumitre/static/css/main.76de6b56.css.map",
-    "main.ba18baaf.js.map": "/cafe-lumitre/static/js/main.ba18baaf.js.map"
+    "main.css": "/cafe-lumietre/static/css/main.76de6b56.css",
+    "main.js": "/cafe-lumietre/static/js/main.ba18baaf.js",
+    "index.html": "/cafe-lumietre/index.html",
+    "main.76de6b56.css.map": "/cafe-lumietre/static/css/main.76de6b56.css.map",
+    "main.ba18baaf.js.map": "/cafe-lumietre/static/js/main.ba18baaf.js.map"
   },
   "entrypoints": [
     "static/css/main.76de6b56.css",
