@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cafe-lumitre/static/css/main.76de6b56.css",
+    "main.js": "/cafe-lumitre/static/js/main.ba18baaf.js",
+    "index.html": "/cafe-lumitre/index.html",
+    "main.76de6b56.css.map": "/cafe-lumitre/static/css/main.76de6b56.css.map",
+    "main.ba18baaf.js.map": "/cafe-lumitre/static/js/main.ba18baaf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76de6b56.css",
+    "static/js/main.ba18baaf.js"
+  ]
+}
